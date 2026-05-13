@@ -1,6 +1,6 @@
 # blog-post
-Designed a blog post with "HTML" and "CSS"
-Animated analog clock with a glowing core  Built as a beautiful, lightweight web component. Built with HTML, CSS, and JavaScript.
+Designed a blog post with "HTML" and "CSS".
+
 
 
 ## Live Demo
