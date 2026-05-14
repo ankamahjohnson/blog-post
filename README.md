@@ -1,5 +1,5 @@
 # blog-post
-Designed a responsive post with "HTML" and "CSS".
+Designed a responsive blog post with "HTML" and "CSS".
 
 
 
