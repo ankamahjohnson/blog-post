@@ -4,8 +4,7 @@ Designed a blog post with "HTML" and "CSS".
 
 
 ## Live Demo
-View Live Blog Post🌐
-[https://ankamahjohnson.github.io/neon-analog-clock/](https://ankamahjohnson.github.io/blog-post/)  
+View Live Blog Post(https://ankamahjohnson.github.io/blog-post/)  
 
 
 ## Features
