@@ -1,5 +1,5 @@
 # blog-post
-Designed a blog post with "HTML" and "CSS".
+Designed a responsive post with "HTML" and "CSS".
 
 
 
@@ -9,14 +9,12 @@ https://ankamahjohnson.github.io/blog-post/
 
 
 ## Features
-- Real-time analog clock with smooth hand animations
-- Beautiful emerald green theme with glowing radial center
-- Precise hour, minute, and second hands
-- Clean minimalist design with crisp typography
-- Fully responsive across all devices
-- Built with pure HTML, CSS & JavaScript (lightweight & fast)
-- Easy to customize and extend
-- Perfect as a desktop widget, new tab page, or screensaver
+- Fully responsive professional blog post with optimal viewing on all devices.
+- Prominent blue "Read More" button with polished hover states to boost user engagement.
+- Pixel-perfect spacing, rounding, and alignment.
+- Smooth hover for improved interactivity. 
+- Built with pure HTML & CSS (lightweight & fast).
+
 
 
 ## Tech Stack
