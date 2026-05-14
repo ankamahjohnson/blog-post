@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Tahoma:wght@100;200;300;400;500;600;700;800&display=swap');
+
+body {
+  font-family: Tahoma, sans-serif;
+  background-color: #202020;
+  background-attachment: fixed;
+  margin: auto;
+  padding: auto;
+}
+
+.blog-post-card {
+  background-color: White;
+  border-radius: 16px;
+  width: 550px;
+  max-width: 350px;
+  margin: 50% auto;
+  text-align: center;
+  overflow: hidden;
+  min-height: 28vh;
+}
+
+.post-img {
+  width: 100%;
+  display: block;
+  border-bottom: 1px solid #ddd; 
+}
+
+.post-content {
+  padding: 20px;
+}
+
+.post-title {
+  margin: 10px 0 23px 0;
+  color: #2c3e50;
+  font-size: 1.9rem;
+  line-height: 1.1;
+}
+
+.post-excerpt {
+  margin: 20px 0 10px 0;
+  padding: 5px 0;
+  color: #555;
+  margin: 0 5px;
+  line-height: 1.5;
+  font-size: 1.2rem;
+}
+
+
+.read-more {
+  display: inline-block;
+  background-color: #0066cc;
+  color: white;
+  padding: 9px 12px;
+  margin: 19px 0 0 0;
+  font-size: 1.0rem;
+  border-radius: 3px;
+  text-decoration: none;
+  transition: background-color 0.2s;
+}
+
+.read-more:hover {
+  background-color: #0055aa;
+}
+
