@@ -1,18 +1,19 @@
 # blog-post
-Designed a responsive blog post with "HTML" and "CSS".
+A clean, responsive blog post preview card built with HTML and CSS. Designed to display a blog article's cover image, title, excerpt, and call-to-action button in a structured card layout.
 
 
 
 ## Live Demo
-View Live Blog Post🌐
+View Live 🌐
 https://ankamahjohnson.github.io/blog-post/
 
 
 ## Features
 - Fully responsive professional blog post with optimal viewing on all devices.
+- Clean white card body with centered text alignment
 - Prominent blue "Read More" button with polished hover states to boost user engagement.
-- Pixel-perfect spacing, rounding, and alignment.
-- Smooth hover for improved interactivity. 
+- Bold article title with strong typographic hierarchy.
+- Pixel-perfect spacing, rounding, and alignment. 
 - Built with pure HTML & CSS (lightweight & fast).
 
 
