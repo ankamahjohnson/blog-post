@@ -24,4 +24,4 @@ https://ankamahjohnson.github.io/blog-post/
 
 
 ## 📝
-Made with ❤️ as a frontend practice project.
+Made with ❤️ as a practice project.
